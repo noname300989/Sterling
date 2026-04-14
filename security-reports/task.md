@@ -1,0 +1,8 @@
+- [x] Extract detailed descriptions and walkthroughs from heritage artifacts
+    - [x] Read `vulnerability_mechanics_analysis.md`
+    - [x] Read `comprehensive_vulnerability_handbook.md`
+    - [x] Read other deep dive files (`sqli`, `xss`, ` rce`, `disclosure`)
+- [x] Research and refine endpoints/payloads for each CVE
+- [x] Compile the master "Detailed Descriptive Article" (updating the current report)
+- [x] Finalize with CVSS scores and IoCs
+- [x] Upload reports to GitHub (noname300989/Sterling)

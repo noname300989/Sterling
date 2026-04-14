@@ -1,0 +1,8 @@
+- [ ] Draft 'Diagnostic: Isolating the 400 Trigger' section
+- [ ] Document Technique 1: Content-Type Deception (JSON-as-Text)
+- [ ] Document Technique 2: NGINX/Ingress Buffer Overrun (Padding)
+- [ ] Document Technique 3: JSON Key Overwriting (Parser Collision)
+- [ ] Document Technique 4: Chunked Encoding Smuggling
+- [ ] Provide specialized payloads for Burp Intruder
+- [ ] Finalize the 'WAF/CSP 400 Bypass Analysis' guide
+- [ ] Update GitHub repository with the new guide

@@ -1,0 +1,9 @@
+- [ ] Draft 'Isomorphic SmartClient RPC Architecture' overview
+- [ ] Document Scenario 1: Unauthenticated Attacks (Framework Exploitation)
+- [ ] Document Scenario 2: Authenticated Attacks (IDOR & Privilege Escalation)
+- [ ] Provide comprehensive Burp Suite Payload templates for:
+    - DataSource Hijacking
+    - SQL Injection via Criteria
+    - JSON-based IDOR
+- [ ] Summarize Remediation & Best Practices
+- [ ] Link deep-dive to the master report

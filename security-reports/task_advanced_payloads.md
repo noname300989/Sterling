@@ -1,0 +1,6 @@
+- [ ] Categorize payloads into XXE, SSRF, CmdInj, and XSS
+- [ ] Research and refine advanced bypass technique for each category
+- [ ] Provide 'Very Descriptive' articles for each vulnerability class
+- [ ] Format exact payloads for Burp Intruder (copy-paste ready)
+- [ ] Add 'Why it works' technical explanation for each advanced variant
+- [ ] Finalize the 'Advanced RPC Payload Dictionary'
